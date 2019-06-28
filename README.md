@@ -1,4 +1,4 @@
-# readify-challenge
+# Readify-Challenge
 by Nimaya Kodikara
 
 # Execute toyrobot.py script
